@@ -22,9 +22,6 @@ Studying @IE University Master in Computer Science & Business Technology
 - 🎨 User-Centric Design
 - 📊 Market Analysis
 - 💡 Problem Solving
-- <i class="fab fa-python"></i>
-- <i class="fab fa-google"></i>
-- <i class="fas fa-database"></i>
 
 ## 🌐 Let's Connect
 
@@ -40,10 +37,6 @@ Studying @IE University Master in Computer Science & Business Technology
 
 - 🎓 Bachelor's in International Management, Università Cattolica del Sacro Cuore and Neoma Business School
 - 📖 Master's in Computer Science & Business Technology, IE University
-
-## 🌱 Certifications
-
-- 🏆 Certification Name, Issuing Organization
 
 ## 🛠️ Projects
 
