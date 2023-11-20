@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Your Name](your_thumbnail_image.png)](link_to_your_profile)
+[![Your Name](Hawks.jpeg)](https://github.com/Hawx00)
 
 # Hi, I'm Sandro 👋
 
 ## About Me
 
-👩‍💻Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast |
+👩‍💻Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast | ✨ Passionate about Unicorns (not the mythological animals)
 
 ## Current Focus
 
