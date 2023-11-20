@@ -1,15 +1,23 @@
+<!-- docs/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
 <div align="center">
 
 [![Sandro](Hawks.jpeg)](https://github.com/Hawx00)
 
 # Hi, I'm Sandro 👋
 
-👩‍💻 Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast | ✨ Passionate about Unicorns (not the mythological animals)
-
-
 </div>
 
----
+👩‍💻 Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast | ✨ Passionate about Unicorns (not the mythological animals)
+
 
 ## 🌐 Let's Connect
 
@@ -48,3 +56,5 @@ Studying @IE University - Master in Computer Science & Business Technology
 - 🇬🇧 English (Proficient)
 - 🇫🇷 French (Intermediate)
 
+</body>
+</html>
