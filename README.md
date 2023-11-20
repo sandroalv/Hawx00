@@ -18,12 +18,12 @@
 
 ## Skills
 
-1. **Strategic Thinking:** Developing and executing strategies aligned with organizational goals.
-2. **User-Centric Design:** Understanding user needs and ensuring products meet or exceed user expectations.
-3. **Market Analysis:** Analyzing market trends and competition to make informed product decisions.
-1. **Programming Proficiency:** Strong coding skills in languages like Python, JavaScript, and Java.
-2. **Problem-Solving:** Ability to approach and solve complex problems systematically.
-3. **Algorithm Design:** Creating efficient algorithms to solve computational problems.
+   **Strategic Thinking:** Developing and executing strategies aligned with organizational goals.
+   **User-Centric Design:** Understanding user needs and ensuring products meet or exceed user expectations.
+   **Market Analysis:** Analyzing market trends and competition to make informed product decisions.
+   **Programming Proficiency:** Coding skills in languages like Python.
+   **Problem-Solving:** Ability to approach and solve complex problems systematically.
+   **Algorithm Design:** Creating efficient algorithms to solve computational problems.
 
 
 ## Let's Connect
