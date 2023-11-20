@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Hawx00/Hawx00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Your Name](your_thumbnail_image.png)](link_to_your_profile)
 
-Here are some ideas to get you started:
+# Hi, I'm Sandro 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+👩‍💻Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast |
+
+## Current Focus
+
+🚀 Studying @IE University Master in Computer Scinece & Business Technology
+
+## Let's Connect
+
+[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/itz_sandro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20LinkedIn%20Profile-blue)](https://www.linkedin.com/in/sandroalvines/)
+
+## Fun Facts
+
+- 🎸 Music Lover
+- 🌱 Learning Wall Climbing
+
+</div>
+
+---
