@@ -14,7 +14,7 @@
 
 ## Let's Connect
 
-[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/itz_sandro)
+[![Twitter](https://img.shields.io/twitter/follow/itz_sandro?style=social)](https://twitter.com/itz_sandro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20LinkedIn%20Profile-blue)](https://www.linkedin.com/in/sandroalvines/)
 
 ## Fun Facts
