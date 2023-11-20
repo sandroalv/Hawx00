@@ -4,6 +4,10 @@
 
 # Hi, I'm Sandro 👋
 
+</div>
+
+---
+
 ## About Me
 
 👩‍💻Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast | ✨ Passionate about Unicorns (not the mythological animals)
