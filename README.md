@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Your Name](Hawks.jpeg)](https://github.com/Hawx00)
+[![Sandro](Hawks.jpeg)](https://github.com/Hawx00)
 
 # Hi, I'm Sandro 👋
 
