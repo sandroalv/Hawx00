@@ -22,7 +22,9 @@ Studying @IE University Master in Computer Science & Business Technology
 - 🎨 User-Centric Design
 - 📊 Market Analysis
 - 💡 Problem Solving
-- 💻 Programming (Python)
+- Python <i class="fab fa-python"></i>
+- Google Cloud <i class="fab fa-google"></i>
+- SQL <i class="fas fa-database"></i>
 
 ## 🌐 Let's Connect
 
@@ -45,12 +47,7 @@ Studying @IE University Master in Computer Science & Business Technology
 
 ## 🛠️ Projects
 
-- 🚀 [Project Name](Link to Project)
-  - Short description of the project and your role
-
-## 🌟 Achievements
-
-- 🏅 Award/accomplishment, Year
+- 🚀 Loading ...
 
 ## 🌎 Languages
 
