@@ -6,6 +6,12 @@
 
 👩‍💻 Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast | ✨ Passionate about Unicorns (not the mythological animals)
 
+
+</div>
+
+---
+
+
 ## 🚀 Current Focus
 
 Studying @IE University Master in Computer Science & Business Technology
@@ -52,8 +58,4 @@ Studying @IE University Master in Computer Science & Business Technology
 - 🇪🇸 Spanish (Native)
 - 🇬🇧 English (Proficient)
 - 🇫🇷 French (Intermediate)
-
-</div>
-
----
 
