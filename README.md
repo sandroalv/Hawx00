@@ -18,14 +18,8 @@
 
 ## Skills
 
-   **Strategic Thinking:** Developing and executing strategies aligned with organizational goals.
-   **User-Centric Design:** Understanding user needs and ensuring products meet or exceed user expectations.
-   **Market Analysis:** Analyzing market trends and competition to make informed product decisions.
-   **Programming Proficiency:** Coding skills in languages like Python.
-   **Problem-Solving:** Ability to approach and solve complex problems systematically.
-   **Algorithm Design:** Creating efficient algorithms to solve computational problems.
-
-
+Strategic Thinking | User-Centric Design | Market Anlysis | Problem Solving | Programming 
+  
 ## Let's Connect
 
 [![Twitter](https://img.shields.io/twitter/follow/itz_sandro?style=social)](https://twitter.com/itz_sandro)
