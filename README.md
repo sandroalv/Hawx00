@@ -11,10 +11,14 @@
 
 ---
 
+## 🌐 Let's Connect
+
+[![Twitter](https://img.shields.io/twitter/follow/itz_sandro?style=social)](https://twitter.com/itz_sandro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro%20Alvines-blue)](https://www.linkedin.com/in/sandroalvines/)
 
 ## 🚀 Current Focus
 
-Studying @IE University Master in Computer Science & Business Technology
+Studying @IE University - Master in Computer Science & Business Technology
 
 ## 💡 Skills
 
@@ -22,16 +26,6 @@ Studying @IE University Master in Computer Science & Business Technology
 - 🎨 User-Centric Design
 - 📊 Market Analysis
 - 💡 Problem Solving
-
-## 🌐 Let's Connect
-
-[![Twitter](https://img.shields.io/twitter/follow/itz_sandro?style=social)](https://twitter.com/itz_sandro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro%20Alvines-blue)](https://www.linkedin.com/in/sandroalvines/)
-
-## 🎉 Fun Facts
-
-- 🎸 Music Lover
-- 🧗‍♂️ Learning Wall Climbing
 
 ## 📚 Education
 
@@ -41,6 +35,11 @@ Studying @IE University Master in Computer Science & Business Technology
 ## 🛠️ Projects
 
 - 🚀 Loading ...
+
+## 🎉 Fun Facts
+
+- 🎸 Music Lover
+- 🧗‍♂️ Learning Wall Climbing
 
 ## 🌎 Languages
 
