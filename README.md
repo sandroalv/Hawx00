@@ -1,60 +1,84 @@
-<!-- docs/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .profile-header {
+      background-color: #f8f9fa;
+      border-radius: 6px;
+      padding: 20px;
+      text-align: center;
+    }
+    .skills-list, .languages-list {
+      list-style-type: none;
+      padding: 0;
+    }
+    .skills-list li, .languages-list li {
+      display: inline-block;
+      margin-right: 10px;
+      background-color: #e9ecef;
+      border-radius: 20px;
+      padding: 5px 10px;
+    }
+    .section-title {
+      color: #007bff;
+    }
+  </style>
 </head>
 <body>
 
-<div align="center">
+<div class="container">
+  <div class="profile-header">
+    <h1>Hi, I'm Sandro 👋</h1>
+    <p>👩‍💻 Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast | ✨ Passionate about Unicorns (not the mythological animals)</p>
+  </div>
 
-[![Sandro](Hawks.jpeg)](https://github.com/Hawx00)
+  <h2 class="section-title mt-5">Let's Connect 🌐</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/sandroalvines/" class="btn btn-primary">LinkedIn</a>
+  </p>
 
-# Hi, I'm Sandro 👋
+  <h2 class="section-title mt-5">Current Focus 🚀</h2>
+  <p>Studying @IE University - Master in Computer Science & Business Technology</p>
 
+  <h2 class="section-title mt-5">Skills 💡</h2>
+  <h3>Technical Skills</h3>
+  <ul class="skills-list">
+    <li>Python 🐍</li>
+    <li>React ⚛️</li>
+    <li>JavaScript 📜</li>
+    <li>SQL 🗄️</li>
+    <li>Oracle Cloud ☁️</li>
+    <li>Google Cloud ☁️</li>
+    <li>AWS ☁️</li>
+  </ul>
+  <h3>Other Skills</h3>
+  <p>Strategic Thinking 📈, User-Centric Design 🎨, Market Analysis 📊, Problem Solving 💡</p>
+
+  <h2 class="section-title mt-5">Education 📚</h2>
+  <p>Bachelor's in International Management, Università Cattolica del Sacro Cuore and Neoma Business School 🎓</p>
+  <p>Master's in Computer Science & Business Technology, IE University 📖</p>
+
+  <h2 class="section-title mt-5">Projects 🛠️</h2>
+  <p>Loading ... 🚀</p>
+
+  <h2 class="section-title mt-5">Fun Facts 🎉</h2>
+  <p>Music Lover 🎸, Learning Wall Climbing 🧗‍♂️</p>
+
+  <h2 class="section-title mt-5">Languages 🌎</h2>
+  <ul class="languages-list">
+    <li>Italian (Native) 🇮🇹</li>
+    <li>Spanish (Native) 🇪🇸</li>
+    <li>English (Proficient) 🇬🇧</li>
+    <li>French (Intermediate) 🇫🇷</li>
+  </ul>
 </div>
-
-👩‍💻 Ex-Banker and Ex-Auditor | 🌐 Web Enthusiast | ✨ Passionate about Unicorns (not the mythological animals)
-
-
-## 🌐 Let's Connect
-
-[![Twitter](https://img.shields.io/twitter/follow/itz_sandro?style=social)](https://twitter.com/itz_sandro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro%20Alvines-blue)](https://www.linkedin.com/in/sandroalvines/)
-
-## 🚀 Current Focus
-
-Studying @IE University - Master in Computer Science & Business Technology
-
-## 💡 Skills
-
-- 📈 Strategic Thinking
-- 🎨 User-Centric Design
-- 📊 Market Analysis
-- 💡 Problem Solving
-
-## 📚 Education
-
-- 🎓 Bachelor's in International Management, Università Cattolica del Sacro Cuore and Neoma Business School
-- 📖 Master's in Computer Science & Business Technology, IE University
-
-## 🛠️ Projects
-
-- 🚀 Loading ...
-
-## 🎉 Fun Facts
-
-- 🎸 Music Lover
-- 🧗‍♂️ Learning Wall Climbing
-
-## 🌎 Languages
-
-- 🇮🇹 Italian (Native)
-- 🇪🇸 Spanish (Native)
-- 🇬🇧 English (Proficient)
-- 🇫🇷 French (Intermediate)
 
 </body>
 </html>
