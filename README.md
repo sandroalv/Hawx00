@@ -4,32 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .profile-header {
-      background-color: #f8f9fa;
-      border-radius: 6px;
-      padding: 20px;
-      text-align: center;
-    }
-    .skills-list, .languages-list {
-      list-style-type: none;
-      padding: 0;
-    }
-    .skills-list li, .languages-list li {
-      display: inline-block;
-      margin-right: 10px;
-      background-color: #e9ecef;
-      border-radius: 20px;
-      padding: 5px 10px;
-    }
-    .section-title {
-      color: #007bff;
-    }
-  </style>
 </head>
 <body>
 
